@@ -1,5 +1,6 @@
 {
   "name": "MY express app",
+  "Url": "mongodb://localhost/vidley",
   "mail": {
     "host": "default mail"
   }
